@@ -1,0 +1,3 @@
+
+obj_player.player_currency += 1;
+// HERE IS WHERE WE WILL ADD THE AMOUNT OF CURRENCY TO PLAYER'S INVENTORYs
